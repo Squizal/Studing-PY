@@ -1,1 +1,1 @@
-print("Это первый урок")
+print("This is the first lesson")
